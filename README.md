@@ -1,6 +1,6 @@
 # Hashiru
 
-Solutions to nodeschool.io's javascripting problems.
+Solutions to nodeschool.io javascripting problems.
 
 ## Screenshot
 ![Javascripting](/images/javascripting.png)
